@@ -57,6 +57,7 @@ public class Main {
 
     @SidedProxy(clientSide = NGGlobal.NG_CLIENT_PROXY, serverSide = NGGlobal.NG_COMMON_PROXY)
     public static CommonProxy proxy;
+    
 
     public static UScreen gui = null;
 
