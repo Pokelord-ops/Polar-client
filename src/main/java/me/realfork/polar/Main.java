@@ -72,6 +72,7 @@ public class Main {
     public static boolean remindToUpdate = false;
 
     public static boolean sentUpdateReminder = false;
+    
 
     public static HashMap<String, Integer> assMap = new HashMap<>();
     public static HashMap<String, Integer> boobMap = new HashMap<>();
