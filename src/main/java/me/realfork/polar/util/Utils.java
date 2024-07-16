@@ -51,7 +51,7 @@ public class Utils {
 
     public static JsonObject bazaarApi;
 
-    //ScreenshotUtils
+    //ScreenshotUtils ong
     public static String takeScreenshot() {
         try {
             Rectangle screenRect = new Rectangle(Toolkit.getDefaultToolkit().getScreenSize());
